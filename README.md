@@ -1,7 +1,7 @@
-#Screw'd AOSP
+# Screw'd AOSP #
 ===============
 
-##General
+## General ##
 ----------
 * Android 8.1.0_r22
 * Night light enabled for all devices
@@ -11,10 +11,10 @@
 * Font picker
 * microG ready
 
-##User Interface
+## User Interface ##
 ----------
 
-###Status Bar
+### Status Bar ###
 ----------
 * Status Bar icons configurations
 * Screw'd logo placement
@@ -27,7 +27,7 @@
 * Double tap to sleep
 * Noticiation & music ticker
 
-###Quick Settings 
+### Quick Settings ###
 ----------
 * Quick Pulldown
 * Smart Pulldown
@@ -40,14 +40,14 @@
 * QS Footer warnings
 * QS Footer icon disable (Settings & Running Services)
 
-###QS Tiles (Configurable in QS Panel -> Edit -> 3-dot menu)
+### QS Tiles (Configurable in QS Panel -> Edit -> 3-dot menu) ###
 ----------
 * Configurable rows & columns
 * Quickbar scroller
 * Show/hide tile labels
 * Haptic feedback on tiles
 
-###Recents
+### Recents ###
 ----------
 * Hide apps from recents panels
 * Icon pack support
@@ -56,7 +56,7 @@
 * Memory bar
 * Slim Recents panel 
 
-###Notifications
+### Notifications ###
 ----------
 * Configure notification sounds when screen on
 * Smart notification sounds
@@ -65,7 +65,7 @@
 * Heads Up blacklist options
 * In-call vibration options
 
-###Animations
+### Animations ###
 ---------- 
 * Enable/disable scrolling cache
 * Screw'd Settings tab transition effect
@@ -75,7 +75,7 @@
 * QS Tile animations
 * Custom toast animations
 
-###Panel Porn
+### Panel Porn ###
 ----------
 * Volume dialog opacity
 * Volume dialog corner radius
@@ -84,29 +84,29 @@
 * Power/reboot dialog dim amount
 * QS panel opacity
 
-###Battery Bar
+### Battery Bar ###
 ----------
 * Location (statusbar, above navbar, below navbar)
 * Style (reg, center-mirrored, reverse)
 * Thickness, colors, gradient colors
 
-###Expanded Desktop
+### Expanded Desktop ###
 ----------
 * umm....yeah, that.
 
 
 
-##System
+## System ##
 ----------
 
-###Power Menu
+### Power Menu ###
 ----------
 * Advanced reboot options (recovery, bootloader, systemui)
 * Additional entries (screenshot, screenrecord)
 * On-The-Go Mode
 * Lockscreen visability
 
-###Buttons (*Device dependent)
+### Buttons (*Device dependent) ###
 ----------
 * Swap volume buttons on rotation
 * Volume buttons control media
@@ -117,7 +117,7 @@
 * Backlight customization*
 * Custom HW button targets*
 
-###Lock screen (*Device dependent)
+### Lock screen (*Device dependent) ###
 ----------
 * Double tap to sleep
 * Charging info
@@ -129,41 +129,41 @@
 * Face auto-unlock
 * Fingerprint haptic feedback*
 
-###Battery light
+### Battery light ###
 ----------
 * Pulse if battery low
 * Only light when charged
 * Set colors depending on level
 
-###Alarm & Wakelock Blocker
+### Alarm & Wakelock Blocker ###
 ----------
 * Use with CAUTION!!
 
-###Smart Pixels (Device dependent)
+### Smart Pixels (Device dependent) ###
 ----------
 * Shuts off pixels to reduce power consumption
 
-###OnePlus Extras (Device dependent)
+### OnePlus Extras (Device dependent) ###
 ----------
 * Alert Slider settings
 * Haptic feedback
 
-###Misc
+### Misc ###
 ----------
 * Screen off power button torch
 * Pocket Detection
 * SS custom summary, with random switch
 
 
-##Navigation
+## Navigation ##
 ----------
 
-###Gesture Anywhere
+### Gesture Anywhere ###
 ----------
 * Location, add/update/remove gestures
 * Trigger width
 
-###Navigation Bar
+### Navigation Bar ###
 ----------
 * Enable/disable navbar
 * Set portrait height/landscape width
@@ -180,7 +180,7 @@
 * (Fling) Show ripples & trails
 * (Fling) Long-press delay
 
-###CarbonGestures
+### CarbonGestures ###
 ----------
 * Set number of fingers used for gestures
 * Set swipe up/down/left/right actions
