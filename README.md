@@ -54,7 +54,8 @@
 * Clear-all button & placement
 * Immersive Recents
 * Memory bar
-* Slim Recents panel 
+* Slim Recents 
+* OmniSwitch
 
 ### Notifications ###
 ----------
