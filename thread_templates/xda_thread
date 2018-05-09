@@ -3,10 +3,11 @@
 [CENTER]
 [IMG]http://i.imgur.com/LCxJTh5.png[/IMG]
 The goal of this project is to provide a pure AOSP experience, while combining the best elements from the other projects. Screw'd will always be AOSP based, and will never contain unneeded libs, binaries, bloat, or statistics. 
+[/CENTER]
 
-[IMG]http://i.imgur.com/tTRJN9p.png[/IMG]
 [CENTER]
-Built from pure AOSP 8.1.0_r22
+[IMG]http://i.imgur.com/tTRJN9p.png[/IMG]
+Built from pure AOSP 8.1.0_r29
 Statusbar tweaks
 DUI Navigation
 QS Panel Tweaks
@@ -16,11 +17,10 @@ Smartbar, Fling & Pulse
 Customizable notification & batt lights
 Recents Panel Tweaks
 Lockscreen shortcuts
-Too many to list here, view full features list
-[/CENTER]
+Too many to list here, view full features list [URL="https://github.com/ScrewdAOSP/Features_Templates"]here[/URL]
 
 [IMG]http://i.imgur.com/4V8Ux9d.png[/IMG]
-Download:[URL="dl.screwdandroid.com/devices/DEVICE/"]dl.screwdandroid.com[/URL]
+Download:[URL="dl.screwdandroid.com/devices/DEVICE/BETA"]dl.screwdandroid.com[/URL]
 
 Join the [URL="https://plus.google.com/communities/109777359391119326629"]Google+ community[/URL] for daily updates on future builds and discussion about Screw'd AOSP!!
 
@@ -31,10 +31,9 @@ Flashing instructions:
 4. Flash screwd_DEVICE-blahblahblah.zip
 5. Flash GApps
 6. Reboot it!!
+[/CENTER]
 
-[CENTER][IMG]http://i.imgur.com/YKp1waq.png[/IMG]
-[URL="http://dl.screwdandroid.com/changelogs"]View changes here[/URL]
-
+[CENTER]
 [IMG]http://i.imgur.com/Ct7qQ5m.png[/IMG]
 [URL="http://www.screwdandroid.com/"]Official Site[/URL]
 [URL="https://docs.google.com/document/d/1eQ89kEwiFd8whygAlctEYS0pLKy2IH0zJP9le8_OUI8/edit?usp=sharing"]Supported Devices[/URL]
@@ -46,7 +45,6 @@ Flashing instructions:
 [CENTER]
 [IMG]http://i.imgur.com/qiOkF9w.png[/IMG]
 Google
-PureNexus
 Dirty Unicorns
 ABC ROM
 AOSIP
@@ -57,3 +55,4 @@ All original authors of commits & patches
 Most importantly you....the user.
 
 [/CENTER]
+

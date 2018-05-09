@@ -3,7 +3,7 @@
 
 ## General ##
 ----------
-* Android 8.1.0_r22
+* Android 8.1.0_r29
 * Night light enabled for all devices
 * Light, Dark, & Black UI options
 * 20+ accent colors built-in
@@ -116,6 +116,7 @@
 * HW Navigation button disable*
 * Backlight customization*
 * Custom HW button targets*
+* Hardware Wake Keys*
 
 ### Lock screen (*Device dependent) ###
 ----------
@@ -153,6 +154,7 @@
 * Screen off power button torch
 * Pocket Detection
 * SS custom summary, with random switch
+* Chooser Activity Blacklist
 
 
 ## Navigation ##
